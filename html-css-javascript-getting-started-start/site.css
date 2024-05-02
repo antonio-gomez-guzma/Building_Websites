@@ -46,4 +46,22 @@ main{
     background-image: url("images/background.png");
     padding-top: 3em;
     padding-bottom: 3em;
+    min-height: 85%;
+}
+
+footer {
+    padding: 15%;
+}
+
+aside,
+article{
+    padding: 2em;
+}
+
+aside{
+    text-align: center;
+}
+
+article{
+    width: 75%;
 }
